@@ -1,0 +1,5 @@
+plan_id,plan_name,plan_type,price,data_gb,validity_days,voice_minutes,sms_limit,status
+P001,Smart 299,Prepaid,299,1.5,28,1000,100,ACTIVE
+P002,Smart 499,Prepaid,499,2.0,28,1500,100,ACTIVE
+P003,Premium 799,Postpaid,799,2.5,30,2000,200,ACTIVE
+P004,Basic 199,Prepaid,199,1.0,28,500,50,ACTIVE
