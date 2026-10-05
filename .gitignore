@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 .env
 logs/
+
+data/raw/
+data/processed/
+data/rejected/
+data/archive/
